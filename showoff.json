@@ -1,0 +1,14 @@
+{
+  "name": "JavaScript: the bizarre stuff",
+  "description": "This lightning talk shows some of the bizarre stuff you can find or do while programming in JavaScript.",
+  "sections": [
+    { "section": "title" },
+
+    { "section": "about_me" },
+
+    { "section": "about_me" },
+
+    { "section": "end" },
+    { "section": "title" }
+  ]
+}
